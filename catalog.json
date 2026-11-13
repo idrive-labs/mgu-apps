@@ -1,0 +1,26 @@
+{
+  "schema": 2,
+  "components": [
+    {
+      "id": "sideways",
+      "kind": "app",
+      "title": "Sideways",
+      "description": "Drift telemetry: live drift angle, chained drift scoring, replays with a freestyle camera, video export to your phone and a worldwide leaderboard.",
+      "author": "jarnesence",
+      "version": "0.6.4",
+      "artifact": {
+        "name": "sideways@0.6.4.tgz",
+        "size": 2616034,
+        "sha256": "f78e8b870ea0af8c5f3cd163a5b8bdba3d338a380a75d3ef90411f19ffa49afc",
+        "url": "https://github.com/jarnesence/mgu-apps/releases/download/catalog/sideways@0.6.4.tgz"
+      },
+      "uninstallable": true,
+      "mguHmi": [
+        "ID7",
+        "ID8"
+      ],
+      "icon": "sideways.png",
+      "iconSha256": "c66e700d433bd9fbbd77430462425defb9a7a46fccf20ad6af67bcd26f165744"
+    }
+  ]
+}

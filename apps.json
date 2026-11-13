@@ -1,0 +1,19 @@
+{
+  "sideways": {
+    "title": "Sideways",
+    "description": "Drift telemetry: live drift angle, chained drift scoring, replays with a freestyle camera, video export to your phone and a worldwide leaderboard.",
+    "author": "jarnesence",
+    "repo": "jarnesence/sideways",
+    "mguHmi": [
+      "ID7",
+      "ID8"
+    ],
+    "needs": "a renderer (mgu-render); internet for the leaderboard",
+    "version": "0.6.4",
+    "artifact": {
+      "name": "sideways@0.6.4.tgz",
+      "size": 2616034,
+      "sha256": "f78e8b870ea0af8c5f3cd163a5b8bdba3d338a380a75d3ef90411f19ffa49afc"
+    }
+  }
+}
